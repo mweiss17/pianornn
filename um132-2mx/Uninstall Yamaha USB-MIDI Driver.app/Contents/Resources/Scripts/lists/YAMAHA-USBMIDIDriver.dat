@@ -1,0 +1,12 @@
+# 
+# Yamaha USB-MIDI Driver Delete File List
+#     YAMAHA-USBMIDIDriver.pkg
+#
+pjp.co.yamaha.USBMIDIDriver
+#pjp.co.yamaha.USBMIDIPatch
+d/Library/Receipts/YAMAHA-USBMIDIDriver.pkg
+#d/Library/Receipts/YAMAHA-USBMIDIPatch.pkg
+d/Library/Audio/MIDI Drivers/YAMAHA-USBMIDIDriver.plugin
+#d/Library/PreferencePanes/YAMAHA-USBMIDIPatch.prefPane
+f~/Library/PreferencePanes/jp.co.yamaha.USBMIDIDriver.plist
+
